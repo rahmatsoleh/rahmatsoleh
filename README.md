@@ -1,7 +1,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=42&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Code+With+Purpose;Support+With+Integrity;Inovate+With+Impact" />
 </p>
-<img src="/img/github-banner.png"/>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rahmatsoleh&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=rahmatsoleh&theme=neon" alt="Rahmat Soleh profile hero" /></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rahmatsoleh&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=rahmatsoleh&theme=neon" alt="GitHub Stats" /></picture>
+</p>
 
 ### 💫 About Me:
 
